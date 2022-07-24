@@ -7,6 +7,6 @@ cd DEVIL-NOOB')
 
 python2 DEVIL-NOOB')
 
-User:DEVIL1')
+User: DEVIL1
 
-pass:DEVIL
+pass: DEVIL
